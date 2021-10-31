@@ -695,5 +695,12 @@
     "minecraft:raw_iron_block": 706,
     "minecraft:raw_copper_block": 707,
     "minecraft:raw_gold_block": 708,
-    "minecraft:infested_deepslate": 709
+    "minecraft:infested_deepslate": 709,
+    "minecraft:sculk": 713,
+    "minecraft:sculk_vein": 714,
+    "minecraft:sculk_catalyst": 715,
+    "minecraft:sculk_shrieker": 716,
+    "minecraft:client_request_placeholder_block": 720,
+    "minecraft:mysterious_frame": 721,
+    "minecraft:mysterious_frame_slot": 722
 }
