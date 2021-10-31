@@ -1,4 +1,5 @@
 {
+    "minecraft:client_request_placeholder_block": -465,
     "minecraft:infested_deepslate": -454,
     "minecraft:raw_gold_block": -453,
     "minecraft:raw_copper_block": -452,
@@ -949,5 +950,6 @@
     "minecraft:chain": 758,
     "minecraft:record_pigstep": 759,
     "minecraft:nether_sprouts": 760,
+    "minecraft:spyglass": 772,
     "minecraft:soul_campfire": 801
 }
