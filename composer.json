@@ -1,5 +1,5 @@
 {
-    "name": "pocketmine/bedrock-data",
+    "name": "nethergamesmc/bedrock-data",
     "description": "Blobs of data generated from Minecraft: Bedrock Edition, used by PocketMine-MP",
     "type": "library",
     "license": "LGPL-3.0",
