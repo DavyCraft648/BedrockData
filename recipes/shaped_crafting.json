@@ -300,9 +300,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQkAc2FuZHN0b25lAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:sandstone_slab"
             }
         ],
         "priority": 50,
@@ -340,9 +340,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQkAc2FuZHN0b25lAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:sandstone_slab"
             }
         ],
         "priority": 50,
@@ -530,9 +530,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQYAcXVhcnR6AA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:quartz_slab"
             }
         ],
         "priority": 50,
@@ -789,9 +789,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQsAc3RvbmVfYnJpY2sA",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:stone_brick_slab"
             }
         ],
         "priority": 50,
@@ -974,8 +974,8 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQYAcXVhcnR6AA==",
-                "name": "minecraft:stone_block_slab"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:quartz_slab"
             }
         },
         "output": [
@@ -994,8 +994,8 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQkAc2FuZHN0b25lAA==",
-                "name": "minecraft:stone_block_slab"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:sandstone_slab"
             }
         },
         "output": [
@@ -1014,8 +1014,8 @@
         "block": "crafting_table",
         "input": {
             "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQsAc3RvbmVfYnJpY2sA",
-                "name": "minecraft:stone_block_slab"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
+                "name": "minecraft:stone_brick_slab"
             }
         },
         "output": [
@@ -1025,25 +1025,6 @@
             }
         ],
         "priority": 50,
-        "shape": [
-            "A",
-            "A"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQwAbmV0aGVyX2JyaWNrAA==",
-                "name": "minecraft:stone_block_slab"
-            }
-        },
-        "output": [
-            {
-                "name": "minecraft:chiseled_nether_bricks"
-            }
-        ],
-        "priority": 0,
         "shape": [
             "A",
             "A"
@@ -3151,48 +3132,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:copper_trapdoor"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:copper_block"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:copper_block"
-            }
-        },
-        "output": [
-            {
                 "count": 4,
                 "name": "minecraft:copper_grate"
             }
@@ -3253,6 +3192,27 @@
         },
         "output": [
             {
+                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
+                "count": 2,
+                "name": "minecraft:copper_trapdoor"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
                 "block_states": "CgAAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAA",
                 "name": "minecraft:lightning_rod"
             }
@@ -3262,6 +3222,27 @@
             "A",
             "A",
             "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:copper_ingot"
+            }
+        },
+        "output": [
+            {
+                "count": 3,
+                "name": "minecraft:copper_door"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AA",
+            "AA",
+            "AA"
         ]
     },
     {
@@ -5297,48 +5278,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:exposed_copper_trapdoor"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:exposed_copper"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:exposed_copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:exposed_copper"
-            }
-        },
-        "output": [
-            {
                 "count": 4,
                 "name": "minecraft:exposed_copper_grate"
             }
@@ -5410,6 +5349,25 @@
         "priority": 1,
         "shape": [
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:exposed_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:exposed_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
         ]
     },
     {
@@ -9953,6 +9911,25 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:nether_brick_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:chiseled_nether_bricks"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:nether_wart"
             }
         },
@@ -10193,48 +10170,6 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:oxidized_copper_trapdoor"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:oxidized_copper"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:oxidized_copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:oxidized_copper"
-            }
-        },
-        "output": [
-            {
                 "count": 4,
                 "name": "minecraft:oxidized_copper_grate"
             }
@@ -10306,6 +10241,25 @@
         "priority": 1,
         "shape": [
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:oxidized_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:oxidized_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
         ]
     },
     {
@@ -11667,20 +11621,80 @@
                 "name": "minecraft:stick"
             },
             "B": {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQwAc21vb3RoX3N0b25lAA==",
-                "name": "minecraft:stone_block_slab"
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
+                "name": "minecraft:stone_block_slab4"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:crimson_planks"
             }
         },
         "output": [
             {
-                "name": "minecraft:armor_stand"
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
             }
         ],
-        "priority": 0,
+        "priority": 2,
         "shape": [
-            "AAA",
-            " A ",
-            "ABA"
+            "ABA",
+            "C C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
+                "name": "minecraft:stone_block_slab4"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:mangrove_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "ABA",
+            "C C"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgRAHN0b25lX3NsYWJfdHlwZV80BQBzdG9uZQA=",
+                "name": "minecraft:stone_block_slab4"
+            },
+            "C": {
+                "meta": 32767,
+                "name": "minecraft:warped_planks"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 2,
+        "shape": [
+            "ABA",
+            "C C"
         ]
     },
     {
@@ -12256,6 +12270,30 @@
             },
             "B": {
                 "meta": 32767,
+                "name": "minecraft:smooth_stone_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:armor_stand"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "AAA",
+            " A ",
+            "ABA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:stick"
+            },
+            "B": {
+                "meta": 32767,
                 "name": "minecraft:soul_sand"
             },
             "C": {
@@ -13191,342 +13229,6 @@
             " A ",
             "ABA",
             "CCC"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab2"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab2"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab2"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab3"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab3"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab3"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:crimson_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:mangrove_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:stick"
-            },
-            "B": {
-                "meta": 32767,
-                "name": "minecraft:stone_block_slab4"
-            },
-            "C": {
-                "meta": 32767,
-                "name": "minecraft:warped_planks"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
-                "name": "minecraft:grindstone"
-            }
-        ],
-        "priority": 2,
-        "shape": [
-            "ABA",
-            "C C"
         ]
     },
     {
@@ -16223,15 +15925,15 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:waxed_copper_trapdoor"
+                "count": 3,
+                "name": "minecraft:waxed_copper_door"
             }
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA"
+            "AA",
+            "AA",
+            "AA"
         ]
     },
     {
@@ -16244,15 +15946,15 @@
         },
         "output": [
             {
-                "count": 3,
-                "name": "minecraft:waxed_copper_door"
+                "count": 4,
+                "name": "minecraft:waxed_copper_grate"
             }
         ],
         "priority": 0,
         "shape": [
-            "AA",
-            "AA",
-            "AA"
+            " A ",
+            "A A",
+            " A "
         ]
     },
     {
@@ -16341,6 +16043,25 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:waxed_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:waxed_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:waxed_exposed_copper"
             },
             "B": {
@@ -16376,36 +16097,15 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:waxed_exposed_copper_trapdoor"
+                "count": 4,
+                "name": "minecraft:waxed_exposed_copper_grate"
             }
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:waxed_exposed_copper"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:waxed_exposed_copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
+            " A ",
+            "A A",
+            " A "
         ]
     },
     {
@@ -16475,6 +16175,25 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:waxed_exposed_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:waxed_exposed_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:waxed_oxidized_copper"
             },
             "B": {
@@ -16510,36 +16229,15 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:waxed_oxidized_copper_trapdoor"
+                "count": 4,
+                "name": "minecraft:waxed_oxidized_copper_grate"
             }
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:waxed_oxidized_copper"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:waxed_oxidized_copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
+            " A ",
+            "A A",
+            " A "
         ]
     },
     {
@@ -16609,6 +16307,25 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:waxed_oxidized_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:waxed_oxidized_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:waxed_weathered_copper"
             },
             "B": {
@@ -16644,36 +16361,15 @@
         },
         "output": [
             {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:waxed_weathered_copper_trapdoor"
+                "count": 4,
+                "name": "minecraft:waxed_weathered_copper_grate"
             }
         ],
         "priority": 0,
         "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:waxed_weathered_copper"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:waxed_weathered_copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
+            " A ",
+            "A A",
+            " A "
         ]
     },
     {
@@ -16743,6 +16439,25 @@
         "input": {
             "A": {
                 "meta": 32767,
+                "name": "minecraft:waxed_weathered_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:waxed_weathered_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
                 "name": "minecraft:weathered_copper"
             },
             "B": {
@@ -16766,48 +16481,6 @@
             " A ",
             "ABA",
             " C "
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:weathered_copper"
-            }
-        },
-        "output": [
-            {
-                "block_states": "CgAAAwkAZGlyZWN0aW9uAAAAAAEIAG9wZW5fYml0AAEPAHVwc2lkZV9kb3duX2JpdAAA",
-                "count": 2,
-                "name": "minecraft:weathered_copper_trapdoor"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AAA",
-            "AAA"
-        ]
-    },
-    {
-        "block": "crafting_table",
-        "input": {
-            "A": {
-                "meta": 32767,
-                "name": "minecraft:weathered_copper"
-            }
-        },
-        "output": [
-            {
-                "count": 3,
-                "name": "minecraft:weathered_copper_door"
-            }
-        ],
-        "priority": 0,
-        "shape": [
-            "AA",
-            "AA",
-            "AA"
         ]
     },
     {
@@ -16891,6 +16564,25 @@
         "priority": 1,
         "shape": [
             "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:weathered_cut_copper_slab"
+            }
+        },
+        "output": [
+            {
+                "name": "minecraft:weathered_chiseled_copper"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A",
+            "A"
         ]
     },
     {
@@ -18107,6 +17799,106 @@
                 "name": "minecraft:arrow"
             },
             "B": {
+                "meta": 43,
+                "name": "minecraft:lingering_potion"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "meta": 44,
+                "name": "minecraft:arrow"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:arrow"
+            },
+            "B": {
+                "meta": 44,
+                "name": "minecraft:lingering_potion"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "meta": 45,
+                "name": "minecraft:arrow"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:arrow"
+            },
+            "B": {
+                "meta": 45,
+                "name": "minecraft:lingering_potion"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "meta": 46,
+                "name": "minecraft:arrow"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:arrow"
+            },
+            "B": {
+                "meta": 46,
+                "name": "minecraft:lingering_potion"
+            }
+        },
+        "output": [
+            {
+                "count": 8,
+                "meta": 47,
+                "name": "minecraft:arrow"
+            }
+        ],
+        "priority": 50,
+        "shape": [
+            "AAA",
+            "ABA",
+            "AAA"
+        ]
+    },
+    {
+        "block": "crafting_table",
+        "input": {
+            "A": {
+                "name": "minecraft:arrow"
+            },
+            "B": {
                 "meta": 5,
                 "name": "minecraft:lingering_potion"
             }
@@ -18481,7 +18273,8 @@
         },
         "output": [
             {
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -18590,7 +18383,8 @@
         "output": [
             {
                 "meta": 4,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -18691,9 +18485,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQUAYnJpY2sA",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:brick_slab"
             }
         ],
         "priority": 50,
@@ -18738,7 +18532,8 @@
         "output": [
             {
                 "meta": 3,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -18920,9 +18715,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQsAY29iYmxlc3RvbmUA",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:cobblestone_slab"
             }
         ],
         "priority": 50,
@@ -18967,7 +18762,8 @@
         "output": [
             {
                 "meta": 6,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -19433,7 +19229,8 @@
         "output": [
             {
                 "meta": 8,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -19520,7 +19317,8 @@
         "output": [
             {
                 "meta": 2,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -19828,7 +19626,8 @@
         "output": [
             {
                 "meta": 12,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -19915,7 +19714,8 @@
         "output": [
             {
                 "meta": 7,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20002,7 +19802,8 @@
         "output": [
             {
                 "meta": 10,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20113,7 +19914,8 @@
         "output": [
             {
                 "meta": 13,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20244,9 +20046,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQwAbmV0aGVyX2JyaWNrAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:nether_brick_slab"
             }
         ],
         "priority": 50,
@@ -20516,7 +20318,8 @@
         "output": [
             {
                 "meta": 14,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20603,7 +20406,8 @@
         "output": [
             {
                 "meta": 9,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20810,7 +20614,8 @@
         "output": [
             {
                 "meta": 5,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20916,7 +20721,8 @@
         "output": [
             {
                 "meta": 1,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -20975,9 +20781,9 @@
         },
         "output": [
             {
-                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQgPAHN0b25lX3NsYWJfdHlwZQwAc21vb3RoX3N0b25lAA==",
+                "block_states": "CgAACBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQA=",
                 "count": 6,
-                "name": "minecraft:stone_block_slab"
+                "name": "minecraft:smooth_stone_slab"
             }
         ],
         "priority": 50,
@@ -21664,7 +21470,8 @@
         "output": [
             {
                 "meta": 15,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -21771,7 +21578,8 @@
         "output": [
             {
                 "meta": 11,
-                "name": "minecraft:banner"
+                "name": "minecraft:banner",
+                "nbt": "CgAAAwQAVHlwZQAAAAAA"
             }
         ],
         "priority": 0,
@@ -22459,6 +22267,177 @@
             "A A",
             "A A",
             "AAA"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
+        ]
+    },
+    {
+        "block": "deprecated",
+        "input": {
+            "A": {
+                "meta": 32767,
+                "name": "minecraft:grindstone"
+            }
+        },
+        "output": [
+            {
+                "block_states": "CgAACAoAYXR0YWNobWVudAgAc3RhbmRpbmcDCQBkaXJlY3Rpb24AAAAAAA==",
+                "name": "minecraft:grindstone"
+            }
+        ],
+        "priority": 0,
+        "shape": [
+            "A"
         ]
     },
     {
